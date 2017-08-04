@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Derian",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "browsersync": "0.0.1-security",
+    "dotenv": "^4.0.0",
+    "restify": "^5.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
